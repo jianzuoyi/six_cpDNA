@@ -1,0 +1,1 @@
+repair.sh in=/its1/GB_BT2/jianzuoyi/workspace/six_cpDNA/data/raw_data/chloroplast_S1_L001_R1_001.fastq.gz in2=/its1/GB_BT2/jianzuoyi/workspace/six_cpDNA/data/raw_data/chloroplast_S1_L001_R2_001.fastq.gz out=chloroplast_S1_L001_R1_001.fastq.gz out2=chloroplast_S1_L001_R2_001.fastq.gz
